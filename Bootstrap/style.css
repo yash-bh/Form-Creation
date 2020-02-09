@@ -1,0 +1,34 @@
+.well
+{
+    background: black;
+    color: white;
+}
+.well h2
+{
+    text-decoration: underline;
+
+}
+.navbar
+{
+    background: black;
+    color: white;
+}
+.nav 
+{
+    float: right;
+}
+/*view profile*/
+.thumbnail img 
+{
+    float: right;
+    height: 200px;
+
+}
+.caption
+{
+    text-align: 
+}
+.row
+{
+    background: 
+}
